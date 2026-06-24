@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5b54d797-c071-4a76-879d-934bcbc270b9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b54d797-c071-4a76-879d-934bcbc270b9</dc:identifier>
+        <dc:title>Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology</dc:title>
+        <dc:creator opf:file-as="Ayres, Lewis" opf:role="aut">Lewis Ayres</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-25T01:10:51+00:00</dc:date>
+        <dc:description>Oxford University Press, USA</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Oxford University Press</dc:subject>
+        <dc:subject>USA</dc:subject>
+        <dc:subject>ISBN-13: 9780198755067</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
